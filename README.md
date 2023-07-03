@@ -1,7 +1,9 @@
 # Login VB Net berbasis API
-#### Versi VB Net
+#### VB Net
 ###### Visual Studio 2015
-#### Versi XAMPP
+#### XAMPP
 ###### XAMPP 3.2.4
-#### Versi PHP
+#### PHP
 ###### PHP 7.4.13
+#### Database
+###### MariaDb 10.4.17
